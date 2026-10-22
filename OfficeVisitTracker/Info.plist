@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <!-- Always authorization is required so the app can detect arrival/departure in the background -->
+    <key>NSLocationAlwaysUsageDescription</key>
+    <string>Office Visit Tracker needs your location to detect when you arrive at and leave office locations.</string>
+</dict>
+</plist>
